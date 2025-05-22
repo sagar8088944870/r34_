@@ -1,5 +1,7 @@
 hi
+<<<<<<< HEAD
 Testing the merge tool
 master
 =======
-Test    
+Test
+>>>>>>> test
